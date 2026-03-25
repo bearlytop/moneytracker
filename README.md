@@ -1,8 +1,3 @@
----
-title: How to Save Money: Smarter & More Efficient Ways to Cut Costs in 2026
-date: 2026-03-25
----
-
 
 
 ```html
